@@ -1,10 +1,10 @@
-# Authenticated Scripts
+# Authenticated Scripts - Secure Version
 
 | Build | Beta | Live |
 | -- | -- | -- |
 | [![Build Status](https://dev.azure.com/cloudpup/Public%20Pen/_apis/build/status/Authenticated%20Scripts?branchName=main&stageName=Build)](https://dev.azure.com/cloudpup/Public%20Pen/_build/latest?definitionId=7&branchName=main) | [![Build Status](https://dev.azure.com/cloudpup/Public%20Pen/_apis/build/status/Authenticated%20Scripts?branchName=main&stageName=Publish%20Private%20Beta)](https://dev.azure.com/cloudpup/Public%20Pen/_build/latest?definitionId=7&branchName=main) | [![Build Status](https://dev.azure.com/cloudpup/Public%20Pen/_apis/build/status/Authenticated%20Scripts?branchName=main&stageName=Publish%20Public)](https://dev.azure.com/cloudpup/Public%20Pen/_build/latest?definitionId=7&branchName=main) |
 
-An Azure DevOps Extension that allows scripts to use a Service Connection! Currently supports Bash and PowerShell.
+An Azure DevOps Extension that allows scripts to use a Service Connection! Currently supports Bash and PowerShell. 
 
 ## Overview
 
